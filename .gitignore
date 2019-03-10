@@ -1,0 +1,6 @@
+out/*
+!out/GameSaves/null
+!out/null
+
+
+.idea/*
